@@ -1,0 +1,7 @@
+This program will count the occurence of each word organized alphabetically from the input file. 
+It creates and writes to the target output file.
+
+To compile this project type make
+
+To run, type ./concordance [target input] [target output] 
+

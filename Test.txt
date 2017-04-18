@@ -1,0 +1,13 @@
+This isn't a test for my concordance program. 
+This is a new line.
+And again for safe measure.
+measure measure
+a
+i i i i
+.a .a a aa aa.
+(ok
+ok.
+ok}}
+this
+won't
+ki&na
